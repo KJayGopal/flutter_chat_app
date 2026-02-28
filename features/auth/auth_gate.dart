@@ -51,8 +51,9 @@ class AuthGate extends StatelessWidget {
         final session = supabase.auth.currentSession;
         // print(supabase.auth.currentUser);
         // print(session!.user.);
-        return session != null ? const MainPage() : const FirstScreen();
+        return session != null ? const CommunityPage() : const FirstScreen();
       },
     );
   }
 }
+
