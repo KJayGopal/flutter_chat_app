@@ -5,11 +5,11 @@ A **production‑grade, real‑time chat application** built with **Flutter**, s
 ---
 
 ##  Features
-<img width="235" height="500" alt="image" src="https://github.com/user-attachments/assets/c3ba82fa-ef10-4651-83a3-139d31ebc85d" />
 
-
-<img width="235" height="500" alt="image" src="https://github.com/user-attachments/assets/cb4c3a40-d8fb-4144-a3e5-9fe9628d7c36" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c3ba82fa-ef10-4651-83a3-139d31ebc85d" width="235" style="margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/cb4c3a40-d8fb-4144-a3e5-9fe9628d7c36" width="235" style="margin: 10px;" />
+</p>
 
 ###  Messaging
 
