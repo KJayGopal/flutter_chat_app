@@ -7,8 +7,10 @@ A **production‑grade, real‑time chat application** built with **Flutter**, s
 ##  Features
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c3ba82fa-ef10-4651-83a3-139d31ebc85d" width="235" style="margin: 10px;" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/cb4c3a40-d8fb-4144-a3e5-9fe9628d7c36" width="235" style="margin: 10px;" />
+  <img width="235" alt="settings" src="https://github.com/user-attachments/assets/29b7a786-94eb-4f71-8815-79280b6a3dac" />  &nbsp;&nbsp;&nbsp;
+
+  <img width="235" alt="clan" src="https://github.com/user-attachments/assets/878e0c88-e941-4d7f-988b-5c296647a63d" />
+
 </p>
 
 ###  Messaging
